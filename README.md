@@ -10,5 +10,5 @@ Paste it into '../Bully - Scholarship Edition/_derpy_script_loader/scripts/' fol
 
 CONTROL
 KEYBOARD & MOUSE | XBOX CONTROLLER | ASSIGNMENT
---- | --- | ---
+:--- | :--- | :---
 Q	| L3 (Fixed) | show or hide the wheel menu
