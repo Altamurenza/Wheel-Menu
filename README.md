@@ -20,5 +20,6 @@ Right Arrow | Right D Pad | go to next tab
 
 nb: Those keys are configurable (see config.ini).
 
-Gameplay Footage: https://www.youtube.com/watch?v=iPNVO_tVFNw
-Official Thread: https://bully-board.com/index.php?topic=26050
+External Links:
+- Gameplay Footage: https://www.youtube.com/watch?v=iPNVO_tVFNw
+- Official Thread: https://bully-board.com/index.php?topic=26050
