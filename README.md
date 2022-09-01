@@ -12,3 +12,8 @@ CONTROL
 KEYBOARD & MOUSE | XBOX CONTROLLER | ASSIGNMENT
 :--- | :--- | :---
 Q	| L3 (Fixed) | show or hide the wheel menu
+Mouse Movement | Right Analog Movement | select category
+Mouse Wheel Down | LB | go to previous item
+Mouse Wheel Up | RB | go to next item
+Left Arrow | Left D Pad | go to previous tab
+Right Arrow | Right D Pad | go to next tab
