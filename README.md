@@ -17,4 +17,6 @@ Mouse Wheel Down | LB | go to previous item
 Mouse Wheel Up | RB | go to next item
 Left Arrow | Left D Pad | go to previous tab
 Right Arrow | Right D Pad | go to next tab
+:--- | :--- | :---
+
 These keys are configurable (see config.ini).
